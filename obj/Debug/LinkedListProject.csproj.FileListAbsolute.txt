@@ -7,3 +7,6 @@ c:\users\n.mosorinski\documents\visual studio 2013\Projects\LinkedListProject\Li
 C:\Users\n.mosorinski\Desktop\Projects\LinkedListProject\LinkedListProject\bin\Debug\LinkedListProject.exe.config
 C:\Users\n.mosorinski\Desktop\Projects\LinkedListProject\LinkedListProject\obj\Debug\LinkedListProject.exe
 C:\Users\n.mosorinski\Desktop\Projects\LinkedListProject\LinkedListProject\obj\Debug\LinkedListProject.pdb
+C:\Users\n.mosorinski\Documents\Local Repository\LinkedListProject\LinkedListProject\bin\Debug\LinkedListProject.exe.config
+C:\Users\n.mosorinski\Documents\Local Repository\LinkedListProject\LinkedListProject\obj\Debug\LinkedListProject.exe
+C:\Users\n.mosorinski\Documents\Local Repository\LinkedListProject\LinkedListProject\obj\Debug\LinkedListProject.pdb
