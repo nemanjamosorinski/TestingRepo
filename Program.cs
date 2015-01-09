@@ -9,7 +9,7 @@ namespace LinkedListProject
         {
             GenericLinkedList<int> numberList = new GenericLinkedList<int>();
 
-            //V1 change
+            //git test
             numberList.AddAtTail(1);
             numberList.AddAtTail(2);
             numberList.AddAtTail(3);
